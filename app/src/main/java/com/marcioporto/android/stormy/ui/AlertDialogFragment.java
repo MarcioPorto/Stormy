@@ -1,10 +1,12 @@
-package com.marcioporto.android.stormy;
+package com.marcioporto.android.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.marcioporto.android.stormy.R;
 
 /**
  * Created by Marcio on 6/4/2015.
